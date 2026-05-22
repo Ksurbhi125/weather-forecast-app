@@ -31,7 +31,3 @@ A responsive weather application built using HTML, CSS, and JavaScript that fetc
 - Detect current location weather
 - Dark mode support
 - Weather animations
-
-## 👩‍💻 Author
-
-Surbhi Kumari
